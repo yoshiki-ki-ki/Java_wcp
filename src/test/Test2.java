@@ -1,5 +1,6 @@
 package test;
 
+// 1～10までの偶数の合計を計算
 public class Test2 {
 	public static void main(String[] args) {
 		int sum = 0;
