@@ -1,3 +1,4 @@
+package wcp.Chapter07;
 
 public class Chapter07_02 {
 	public static void main(String[] args) {

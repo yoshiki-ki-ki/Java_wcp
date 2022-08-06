@@ -1,3 +1,4 @@
+package wcp.Chapter08;
 
 public class Recursive01 {
 	public static void main(String[] args) {
